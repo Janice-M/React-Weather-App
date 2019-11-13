@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
-    "eslint": "^3.19.0",
+    "eslint": "^6.6.0",
     "eslint-config-strongloop": "^2.1.0",
     "eslint-plugin-react": "^7.8.2",
     "module-alias": "2.0.6"
